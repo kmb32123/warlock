@@ -34,7 +34,8 @@
     "orchestrator": "~0.3.3",
     "vinyl-fs": "^0.3.9",
     "di": "2.0.0-pre-12",
-    "warlock-deepmerge": "^0.3.0"
+    "warlock-deepmerge": "^0.3.0",
+    "traverse": "^0.6.6"
   },
   "devDependencies": {
     "codeclimate-test-reporter": "0.0.4",
